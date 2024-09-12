@@ -1,0 +1,40 @@
+
+
+.journalCard-container {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px 25px;
+    min-width: 400px;
+    max-width: 600px;
+
+    margin-bottom: 1rem;
+}
+
+.journalCard-container h2 {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.journalCard-stats p{
+    margin: 0;
+}
+
+.journalCard-stats {
+    margin-bottom: 1rem;
+}
+
+.journalCard-entry-preview {
+    background-color: #f0f4f8;
+    padding: 5px 20px;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+}
+
+.journalCard-entry-title {
+    font-size: 20px;
+    text-align: center;
+}
+
+.journalCard-entry-text {
+    color: #9d9d9d;
+}
